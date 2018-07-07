@@ -1,4 +1,6 @@
 *                   { box-sizing: border-box; }
+audio               { display: block;
+                      margin-top: 1em; }
 body                { background-color: #fcebb6;
                       background-image: url(Images/background.gif);
                       color: #221811;
